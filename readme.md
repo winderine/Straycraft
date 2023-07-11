@@ -1,29 +1,43 @@
-TODO: Properly set up the following checklists:
+### Straycraft Resource Pack Todo
+- Swamp Colors: #4c763c #6a7039
 
-## To Do
-[ ] 
+## Pack currently includes:
+- [x] bushy leaves (VT)
+- [x] brown bed be cardboard box (sort of)
+- [x] levers be copper
+- [x] detector rails be viney powerlines
+- [x] lilypads be duckweeds
+- [x] sculk and cobwebs be goopy (sort of) 
+- [x] Kelp blocks be garbage bags
+- [x] verdant frog lights be monitors
+- [x] LB Carpet be LB Concrete
+- [x] Custom Sticks (3) 
+- [x] Raens' Stick 2439522
 
-## Done
-[x] Rails Be Vines 
+## To do:
+- [ ] brown bed be cardboard box (fix it)
+- [ ] sculk and cobwebs be goopy (add animations/variations)
+- [ ] Reinforced Deepslate be Rusty Iron - reinforced deepslate and iron are both "fixed" with no blockstates
+- [ ] spruce buttons be brown pebbles
+- [ ] black candles be bag ties
+- [ ] redstone wire be floor cables
+- [ ] sculk sensors or infested stone be explodey eggs
+- [ ] endermites be zurks
+- [ ] villagers be Companions
 
-![Screenshot of game assets.](assets/screenshots/Vines_1.png) 
+## Custom Items (shows up in item frames):
+- [ ] stack/shelf of books
+- [ ] single book (journal)
+- [ ] postcards from papers
+- [ ] poncho
+- [ ] Written Card
+- [ ] Faux Painting (secret door?)
 
-![Screenshot of game assets.](assets/screenshots/Vines_2.png) 
+## Custom Paintings/Maps
+- [ ] Number signs
+- [ ] Apartment identifiers
+- [ ] Shop Logos
+- [ ] Queen Meanie's Crown
 
-[x] Verdant Froglights Be Monitors
-
-![Screenshot of game assets.](assets/screenshots/Monitor_1.png) 
-
-![Screenshot of game assets.](assets/screenshots/Monitor_2.png) 
-
-[x] Kelp be Trash Bags
-
-![Screenshot of game assets.](assets/screenshots/TrashBag_1.png) 
-
-![Screenshot of game assets.](assets/screenshots/TrashBag_2.png) 
-
-[x] Light Blue Carpet be Light Blue Concrete (Paint)
-
-![Screenshot of game assets.](assets/screenshots/Carpet_1.png) 
-
-![Screenshot of game assets.](assets/screenshots/Carpet_2.png) 
+## Blocks we might be able to retexture:
+- Warped: hyphae (axis), nylium (fixed), planks (fixed), wart block (fixed), stem/stripped (axis), slab/doubleslab (fixed)
